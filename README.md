@@ -10,6 +10,7 @@
 
 <a href="https://github.com/Lefaktar-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Lefaktar--coder-111827?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/konstantin-okunev-11a9a025a/"><img alt="LinkedIn — Константин" src="https://img.shields.io/badge/LinkedIn-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/lefaktar"><img alt="Telegram — @lefaktar" src="https://img.shields.io/badge/Telegram-%40lefaktar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://lefaktar.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lefaktar.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:lefaktar@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-lefaktar%40yandex.ru-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
