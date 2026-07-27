@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/Lefaktar-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Lefaktar--coder-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/konstantin-okunev-11a9a025a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Konstantin%20Okunev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/konstantin-okunev-11a9a025a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Konstantin%?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://lefaktar.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lefaktar.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:lefaktar@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-lefaktar%40yandex.ru-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
